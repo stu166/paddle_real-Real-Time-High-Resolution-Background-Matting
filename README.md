@@ -1,3 +1,11 @@
+# 为了方便复现，直接将官方源码fork过来
+以下是对原论文的一些理解
+
+
+
+
+
+
 # Real-Time High-Resolution Background Matting
 
 ![Teaser](https://github.com/PeterL1n/Matting-PyTorch/blob/master/images/teaser.gif?raw=true)
